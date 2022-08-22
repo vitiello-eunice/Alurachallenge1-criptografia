@@ -1,2 +1,2 @@
 # Alurachallenge1-criptografia
-Desafio criar um criptograficador
+Desafio criar um encriptador
